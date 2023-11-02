@@ -3,9 +3,10 @@
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
 <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xmlns="http://java.sun.com/xml/ns/javaee"
-        xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
-        id="WebApp_ID" version="3.0">
+         xmlns="http://java.sun.com/xml/ns/javaee"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+         id="WebApp_ID" version="3.0">
+
   <display-name>car-store</display-name>
 
   <listener>
@@ -22,4 +23,5 @@
     <servlet-name>H2Console</servlet-name>
     <url-pattern>/console/*</url-pattern>
   </servlet-mapping>
+
 </web-app>

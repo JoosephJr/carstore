@@ -1,3 +1,6 @@
 C:\Users\jose.rlsjunior2\Git\carstore\carstore\src\main\java\br\com\carstore\model\Car.java
+C:\Users\jose.rlsjunior2\Git\carstore\carstore\src\main\java\br\com\carstore\servlet\ConnectionPoolConfig.java
 C:\Users\jose.rlsjunior2\Git\carstore\carstore\src\main\java\br\com\carstore\servlet\CreateCarServlet.java
+C:\Users\jose.rlsjunior2\Git\carstore\carstore\src\main\java\br\com\carstore\servlet\DeleteCarServlet.java
 C:\Users\jose.rlsjunior2\Git\carstore\carstore\src\main\java\br\com\carstore\dao\CarDao.java
+C:\Users\jose.rlsjunior2\Git\carstore\carstore\src\main\java\br\com\carstore\servlet\ListCarServlet.java
